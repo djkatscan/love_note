@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "NoteIntent",
+      "slots": [
+        {
+          "name": "gestures",
+          "type": "GESTURES"
+        },
+        {
+          "name": "dateoi",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+ }

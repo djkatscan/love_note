@@ -1,0 +1,5 @@
+note
+message
+secret
+yoda
+quote

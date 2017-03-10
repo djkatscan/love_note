@@ -1,0 +1,3 @@
+NoteIntent {gestures}
+NoteIntent {gestures} {dateoi}
+NoteIntent {gestures} for {dateoi}
